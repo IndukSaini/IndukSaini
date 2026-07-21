@@ -1,16 +1,60 @@
-## Hi there 👋
+# Hi, I'm Indu K Saini 👋
 
-<!--
-**IndukSaini/IndukSaini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a Business Analyst transitioning into Data Science and Generative AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy solving business problems using data, machine learning, visualization, and AI-powered applications.
+
+---
+
+## Technical Skills
+
+- Python
+- SQL
+- Power BI
+- Machine Learning
+- Generative AI
+- Prompt Engineering
+- Google Gemini API
+- Gradio
+- Pandas
+- NumPy
+- Scikit-learn
+
+---
+
+## Featured Project
+
+### AI Retail Feedback Analysis
+
+A Generative AI application that automatically analyzes retail customer reviews using Google Gemini.
+
+Features:
+- Sentiment Analysis
+- Product Category Detection
+- Urgency Classification
+- AI-generated Summary
+- Personalized Customer Response
+- Retail Business Insights
+- Interactive Gradio Application
+
+Repository:
+👉 https://github.com/IndukSaini/AI-Retail-Feedback-Analysis
+
+---
+
+## Education
+
+Graduate Certificate
+Data Science & Generative AI
+
+---
+
+## Connect with Me
+
+LinkedIn:
+https://www.linkedin.com/in/induksaini/
+
+GitHub:
+https://github.com/IndukSaini

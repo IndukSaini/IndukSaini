@@ -47,7 +47,7 @@ Repository:
 ## Education
 
 Graduate Certificate
-Data Science & Generative AI
+MIT Data Science & Generative AI
 
 ---
 

@@ -41,7 +41,7 @@ Features:
 
 Repository:
 👉 https://github.com/IndukSaini/AI-Retail-Feedback-Analysis
-👉 https://github.com/IndukSaini/AI-Retail-Feedback-Analysis
+
 
 ---
 
